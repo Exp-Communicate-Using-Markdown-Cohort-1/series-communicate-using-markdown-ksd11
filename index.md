@@ -1,2 +1,4 @@
 # hello
 there are some comment!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
